@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\W57066\Desktop\MusicApp\MusicApp.iml" filepath="C:\Users\W57066\Desktop\MusicApp\MusicApp.iml" />
+      <module fileurl="file://G:\MusicApp-master (1)\MusicApp-master\MusicApp.iml" filepath="G:\MusicApp-master (1)\MusicApp-master\MusicApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicApp-master.iml" filepath="$PROJECT_DIR$/MusicApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\MusicApp-master (1)\MusicApp-master\app\app.iml" filepath="G:\MusicApp-master (1)\MusicApp-master\app\app.iml" />
+      <module fileurl="file://C:\Users\W57066\Desktop\MusicApp\app\app.iml" filepath="C:\Users\W57066\Desktop\MusicApp\app\app.iml" />
+    </modules>
+  </component>
+</project>
